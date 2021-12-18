@@ -29,3 +29,7 @@ https://data-flair.training/blogs/data-science-at-netflix/</br>
 http://www.diva-portal.org/smash/get/diva2:935353/FULLTEXT02.pdf</br>
 
 # Contibution:---
+Kinal Kagathara (https://github.com/Kinal-Kagathara)</br>
+Omkar Pandya (https://github.com/Omkar-Pandya)</br>
+Dhruvi Shah (https://github.com/Dhruvi1908)</br>
+Fenil Vithlani (https://github.com/fenilvithlani)</br>
